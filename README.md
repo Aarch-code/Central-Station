@@ -1,3 +1,7 @@
+Case: 101 - The case of Lina Lovelace.
+
+Stage: 1 - Central Station
+
 /*
 
 Officer: 8663444
